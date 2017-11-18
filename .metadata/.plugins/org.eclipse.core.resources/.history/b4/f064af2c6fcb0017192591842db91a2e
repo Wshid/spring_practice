@@ -1,0 +1,8 @@
+package com.wshid;
+
+import org.springframework.steretype.Controller;
+
+
+public class HelloController {
+
+}
