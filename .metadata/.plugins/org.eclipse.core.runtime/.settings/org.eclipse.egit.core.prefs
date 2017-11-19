@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=/Users/wshid/Workspace/sts_workspace/gs-spring-boot/.git\:
-GitRepositoriesView.GitDirectories.relative=gs-spring-boot/.git\:
+GitRepositoriesView.GitDirectories=/Users/wshid/Workspace/sts_workspace/gs-spring-boot/.git\:/Users/wshid/Workspace/sts_workspace/.git\:
+GitRepositoriesView.GitDirectories.relative=gs-spring-boot/.git\:.git\:
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
